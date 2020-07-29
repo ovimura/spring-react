@@ -13,3 +13,7 @@ Next,
 - Navigate to app directory (i.e. cd app) from root directory then run the front-end using following command:
     - yarn start
 
+Application is deployed in AWS
+
+URL: http://portal1-env.eba-pw2y8eja.us-west-2.elasticbeanstalk.com
+

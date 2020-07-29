@@ -29,7 +29,7 @@ public class Initializer implements CommandLineRunner {
         Provider djug = repository.findByName("Thomas Dudrey, MD");
         Meeting e = Meeting.builder().title("Initial Visit")
                 .description("General Examination")
-                .date(Instant.parse("2018-12-12T18:00:00.000Z"))
+                .date(Instant.parse("2020-07-29T15:00:00.000Z"))
                 .build();
         djug.setMeetings(Collections.singleton(e));
         repository.save(djug);
