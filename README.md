@@ -8,8 +8,8 @@ First run the commands:
 
 Next,
 
-- Navigate to the root folder (i.e. cd spring-react) and run the following command:
+- Navigate to the root folder (i.e. cd spring-react) and run the back-end using following command:
     - mvnw spring-boot:run
-- Navigate to app directory (i.e. cd app) from root directory then run the following command:
+- Navigate to app directory (i.e. cd app) from root directory then run the front-end using following command:
     - yarn start
 
